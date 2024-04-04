@@ -1,0 +1,6 @@
+numpy
+Pillow
+streamlit
+tensorflow-cpu==2.13.0
+requests
+beautifulsoup4
